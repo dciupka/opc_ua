@@ -1,3 +1,4 @@
+"""client to server with cerated nodes"""
 from opcua import Client
 import time
 
