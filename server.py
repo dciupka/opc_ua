@@ -1,4 +1,4 @@
-"""Simple server"""
+"""Simple server opc ua"""
 from opcua import Server
 from random import randint
 import datetime
